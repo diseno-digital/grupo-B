@@ -77,7 +77,7 @@
     - [ ] TODO I
     - [ ] TODO II
 
-Ver [issues](https://github.com/diseno-digital/grupo-A/issues) para ver la lista a detalles de TODOS.
+Ver [issues](https://github.com/diseno-digital/grupo-B/issues) para ver la lista a detalles de TODOS.
 
 <!-- <p align="right">(<a href="#top">subir</a>)</p> -->
 
