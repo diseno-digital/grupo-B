@@ -20,7 +20,7 @@
     <br />
     <a href="https://github.com/diseno-digital/grupo-B">Ver proyecto</a>
     ·
-    <a href="https://github.com/diseno-digital/grupo-B/issues">Solicitar una modificación</a>
+    <a href="https://github.com/diseno-digital/grupo-B/issues">Crear un issue</a>
   </p>
 </div>
 
