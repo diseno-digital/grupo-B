@@ -47,6 +47,8 @@
 
 <!-- De que trata el proyecto -->
 ## De que trata el proyecto
+Repositorio de obras.
+El alumnx puede recopilar y administrar su trabajo en orden cronológico y por tipo por categoría.
 <!--  [![Imagen del proyecto][proyecto-imagen]](url) -->
 
 <!-- TODO -->
