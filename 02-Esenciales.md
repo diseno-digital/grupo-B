@@ -37,6 +37,8 @@ Para tener claro a quién nos dirigirnos, tenemos que entender:
 Ejercicio:
 
 * Vamos a definir el objetivo de nuestro proyecto, tomando en cuenta las propuestas y los recursos con los que contamos.
+- Generar una plataforma para que les alumnes puedan de forma fácil subir su trabajo 
+- Personas interesadas podrán ver el trabajo que existe en la plataforma y contactar a la persona
 
 ## 3. Diferenciadores
 
@@ -48,6 +50,7 @@ Ejercicio:
 
 * Vamos a segmentar de manera general las tareas que necesitamos para crear la base de nuestro proyecto.
 * Vamos a utilizar el checklist del siguiente enlace para ayudarnos a realizar cada una de estas tareas.
+
 
 
 https://www.designsystemchecklist.com
