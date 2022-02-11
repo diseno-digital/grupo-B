@@ -57,6 +57,7 @@ Para publicar lo que trabajamos durante la sesión y ver nuestros cambios en un 
 
 **Enlaces útiles:**
 
+* [Referencia de elementos HTML](https://developer.mozilla.org/es/docs/Web/HTML/Element)
 * [Documentación de HTML](https://mdn.io/html/es)
 * [Tabla periódica de elementos HTML](https://madebymike.github.io/html5-periodic-table/)
 * [Browser Default Styles](https://browserdefaultstyles.com)
