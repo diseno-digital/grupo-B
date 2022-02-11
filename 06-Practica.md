@@ -24,7 +24,7 @@ Pasos:
 8. Vamos a cambiar el título del documento y vamos a poner `Trabajo individual Minombre`.
 9. Vamos a tomar un screenshot del diseño para poderlo analizar desde nuestro editor de código.
 10. Vamos a buscar el tab que dice `Outline` para visualizar la estructura de nuestro documento ![Outline](https://res.cloudinary.com/pmichventura/image/upload/v1644507215/CENTRO/outline.png)
-11. Vamos a copiar y pegar las siguientes instrucciones en forma de comentarios html dentro de las etiquetas y continuar con el TODO desde VSCode `<body></body>`
+11. Vamos a copiar y pegar las siguientes instrucciones en forma de comentarios html dentro de las etiquetas `<body></body>` y continuar con el TODO desde VSCode 
 ```html
 <!--
   TODO:
